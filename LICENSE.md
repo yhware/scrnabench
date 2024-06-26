@@ -1,4 +1,4 @@
-GNU General Public License
+MIT License
 ==========================
 
 _Version 3, 29 June 2007_  
@@ -9,14 +9,14 @@ document, but changing it is not allowed.
 
 ## Preamble
 
-The GNU General Public License is a free, copyleft license for software and other
+The MIT License is a free, copyleft license for software and other
 kinds of works.
 
 The licenses for most software and other practical works are designed to take away
-your freedom to share and change the works. By contrast, the GNU General Public
+your freedom to share and change the works. By contrast, the MIT
 License is intended to guarantee your freedom to share and change all versions of a
 program--to make sure it remains free software for all its users. We, the Free
-Software Foundation, use the GNU General Public License for most of our software; it
+Software Foundation, use the MIT License for most of our software; it
 applies also to any other work released this way by its authors. You can apply it to
 your programs, too.
 
@@ -67,7 +67,7 @@ The precise terms and conditions for copying, distribution and modification foll
 
 ### 0. Definitions
 
-“This License” refers to version 3 of the GNU General Public License.
+“This License” refers to version 3 of the MIT License.
 
 “Copyright” also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
@@ -495,7 +495,7 @@ General Public License from time to time. Such new versions will be similar in s
 to the present version, but may differ in detail to address new problems or concerns.
 
 Each version is given a distinguishing version number. If the Program specifies that
-a certain numbered version of the GNU General Public License “or any later
+a certain numbered version of the MIT License “or any later
 version” applies to it, you have the option of following the terms and
 conditions either of that numbered version or of any later version published by the
 Free Software Foundation. If the Program does not specify a version number of the GNU
@@ -556,16 +556,16 @@ where the full notice is found.
     Copyright (C) <year>  <name of author>
 
     This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
+    it under the terms of the MIT License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+    MIT License for more details.
 
-    You should have received a copy of the GNU General Public License
+    You should have received a copy of the MIT License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Also add information on how to contact you by electronic and paper mail.
@@ -587,7 +587,7 @@ sign a “copyright disclaimer” for the program, if necessary. For more
 information on this, and how to apply and follow the GNU GPL, see
 &lt;<http://www.gnu.org/licenses/>&gt;.
 
-The GNU General Public License does not permit incorporating your program into
+The MIT License does not permit incorporating your program into
 proprietary programs. If your program is a subroutine library, you may consider it
 more useful to permit linking proprietary applications with the library. If this is
 what you want to do, use the GNU Lesser General Public License instead of this
